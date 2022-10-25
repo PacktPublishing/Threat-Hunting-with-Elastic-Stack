@@ -58,3 +58,7 @@ Click on following link to see the Code in Action:
 began his journey into information security in 2002. He has performed security monitoring, incident response, threat hunting, and intelligence analysis for various organizations from the United States Department of Defense, a biotechnology company, and co-founded a security services company called Perched, which was acquired by Elastic in 2019. Andrew is currently employed with Elastic as a Principal Security Research Engineer where he performs intelligence and analytics research to identify adversary activity on contested networks. He has been using Elastic for network and endpoint-based threat hunting since 2013, He has developed training on security workloads using the Elastic Stack since 2017, and currently works with a team of brilliant engineers that develop detection logic for the Elastic Security App.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801073783">https://packt.link/free-ebook/9781801073783 </a> </p>
